@@ -1113,5 +1113,6 @@
   "enter-your-email-business-address": "E-posta iş adresinizi girin...",
   "optional": "(isteğe bağlı)",
   "select-your-issue": "Sorununuzu seçin",
-  "search-documentation": "Arama belgeleri"
+  "search-documentation": "Arama belgeleri",
+  "create-new-api-key": "Create new API key"
 }
