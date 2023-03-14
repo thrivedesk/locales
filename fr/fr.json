@@ -1113,5 +1113,6 @@
   "enter-your-email-business-address": "Entrez l'adresse de votre entreprise de messagerie...",
   "optional": "(optionnel)",
   "select-your-issue": "Sélectionnez votre problème",
-  "search-documentation": "Rechercher dans la documentation"
+  "search-documentation": "Rechercher dans la documentation",
+  "create-new-api-key": "Créer une clé API nouvelle"
 }
