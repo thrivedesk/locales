@@ -5,7 +5,7 @@
   "410": "410",
   "hello": "Merhaba",
   "nice": "güzel",
-  "apple": "apple",
+  "apple": "elma",
   "downloads": "İndirmeler",
   "clear": "Temiz",
   "no-downloads": "İndirme yok!",
@@ -1114,5 +1114,5 @@
   "optional": "(isteğe bağlı)",
   "select-your-issue": "Sorununuzu seçin",
   "search-documentation": "Arama belgeleri",
-  "create-new-api-key": "Create new API key"
+  "create-new-api-key": "Yeni API anahtarı oluştur"
 }
