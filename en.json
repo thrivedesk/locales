@@ -1113,5 +1113,6 @@
   "enter-your-email-business-address": "Enter your email business address...",
   "optional": "(optional)",
   "select-your-issue": "Select your issue",
-  "search-documentation": "Search documentation"
+  "search-documentation": "Search documentation",
+  "create-new-api-key": "Create new API key"
 }
